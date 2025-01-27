@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mayur Patil!  
 ### 🚀 Senior Software Engineer | 💻 Tech Enthusiast | 🧩 Problem Solver  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mayurvpatil.profile)  
+![Profile Views](https://komarev.com/ghpvc/?username=mayurvpatil&color=blue&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/mayurvpatil?label=Follow&style=social)](https://github.com/mayurvpatil)
 
 ---
