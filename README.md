@@ -52,19 +52,9 @@ I have expertise in a variety of technologies and love exploring new ones. Below
 - **[Project Name]**: A project demonstrating your backend development skills in Java, Python, or JavaScript.
 
 ## 📬 How to reach me:
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Website**: [Your Portfolio or Blog]
+- **Email**: [mayurvpatil@live.com]
+- **LinkedIn**: [www.linkedin.com/in/mayurvpatil]
 
 ---
 
-## 📊 GitHub Stats:
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&bg_color=ffffff&color=000000&line=ff0000&point=0000ff)
 
