@@ -20,4 +20,51 @@ Here are some ideas to get you started:
 </div>
 
 
-Work in progress ...
+# Hi, I'm Mayur Patil 👋
+
+I'm a **Software Engineer** with 9+ years of experience, specializing in **Backend Development**, **System Design**, **Infrastructure**, and **Cloud Solutions**. I’m passionate about solving complex problems, optimizing systems, and building scalable applications. 
+
+I have expertise in a variety of technologies and love exploring new ones. Below is a quick look at my skills and what I’m currently working on.
+
+## 🔧 Technologies & Tools:
+- **Backend Languages**: Java, Python, JavaScript
+- **Frameworks**: Spring Boot, Node.js, Flask
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **System Design**: Microservices, Distributed Systems, Event-Driven Architecture
+- **Operating Systems**: Linux (Ubuntu, CentOS)
+- **Other Tools**: Git, Jenkins, Prometheus, Grafana, ELK Stack, CI/CD pipelines
+
+## 🧠 Expertise:
+- **Problem Solving**: Strong algorithmic and data structure skills.
+- **System Design**: Expertise in designing scalable, fault-tolerant, and efficient systems.
+- **Infrastructure**: Managing cloud infrastructure, automating deployments, containerization with Docker, and orchestration with Kubernetes.
+- **Cloud**: Deep understanding of AWS services including EC2, S3, Lambda, RDS, and more.
+- **Backend Architecture**: Experience building RESTful APIs, gRPC services, and event-driven architectures.
+
+## 🚀 Current Learning Focus:
+- Advanced **Cloud Architecture** with a focus on serverless and container orchestration.
+- Exploring **Machine Learning** and its integration with backend systems.
+
+## 📂 Key Projects:
+- **[Project Name]**: A brief description of the project, the challenges faced, and the technologies used (e.g., AWS, Docker, Kubernetes).
+- **[Project Name]**: Another project where you worked on system design or performance optimization.
+- **[Project Name]**: A project demonstrating your backend development skills in Java, Python, or JavaScript.
+
+## 📬 How to reach me:
+- **Email**: [your.email@example.com]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Website**: [Your Portfolio or Blog]
+
+---
+
+## 📊 GitHub Stats:
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&bg_color=ffffff&color=000000&line=ff0000&point=0000ff)
+
