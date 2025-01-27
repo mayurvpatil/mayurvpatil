@@ -1,60 +1,88 @@
+# 👋 Hi there, I'm Mayur Patil!  
+### Senior Software Engineer | Tech Enthusiast | Problem Solver  
 
-<!--
-**mayurvpatil/mayurvpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-# Hi, I'm Mayur Patil 👋
-
-I'm a **Software Engineer** with 9+ years of experience, specializing in **Backend Development**, **System Design**, **Infrastructure**, and **Cloud Solutions**. I’m passionate about solving complex problems, optimizing systems, and building scalable applications. 
-
-I have expertise in a variety of technologies and love exploring new ones. Below is a quick look at my skills and what I’m currently working on.
-
-## 🔧 Technologies & Tools:
-- **Backend Languages**: Java, Python, JavaScript
-- **Frameworks**: Spring Boot, Node.js, Flask
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **System Design**: Microservices, Distributed Systems, Event-Driven Architecture
-- **Operating Systems**: Linux (Ubuntu, CentOS)
-- **Other Tools**: Git, Jenkins, Prometheus, Grafana, ELK Stack, CI/CD pipelines
-
-## 🧠 Expertise:
-- **Problem Solving**: Strong algorithmic and data structure skills.
-- **System Design**: Expertise in designing scalable, fault-tolerant, and efficient systems.
-- **Infrastructure**: Managing cloud infrastructure, automating deployments, containerization with Docker, and orchestration with Kubernetes.
-- **Cloud**: Deep understanding of AWS services including EC2, S3, Lambda, RDS, and more.
-- **Backend Architecture**: Experience building RESTful APIs, gRPC services, and event-driven architectures.
-
-## 🚀 Current Learning Focus:
-- Advanced **Cloud Architecture** with a focus on serverless and container orchestration.
-- Exploring **Machine Learning** and its integration with backend systems.
-
-## 📂 Key Projects:
-- **[Project Name]**: A brief description of the project, the challenges faced, and the technologies used (e.g., AWS, Docker, Kubernetes).
-- **[Project Name]**: Another project where you worked on system design or performance optimization.
-- **[Project Name]**: A project demonstrating your backend development skills in Java, Python, or JavaScript.
-
-## 📬 How to reach me:
-- **Email**: [mayurvpatil@live.com]
-- **LinkedIn**: [www.linkedin.com/in/mayurvpatil]
+🌟 **About Me**  
+I'm a software engineer with 8+ years of experience designing, developing, and maintaining software solutions. I've worked extensively with Java, Python, JavaScript, and various frameworks and tools to create reliable, scalable applications. I'm passionate about solving complex problems, learning new technologies, and taking on exciting challenges.
 
 ---
 
+## 💻 **Skills**  
 
+### **Languages & Frameworks**  
+- **Expert**: Java, Python, SQL, Kubernetes, Docker, Spring, Hibernate, AWS, Unix, Shell Script  
+- **Familiar**: JavaScript, GoLang, C++, Terraform, DropWizard, Helm  
+
+### **Tools & Platforms**  
+- AWS (Lambda, S3, EventBridge, SNS, EC2)  
+- Helm, Kubernetes, Terraform, Artifactory  
+- CI/CD pipelines, MkDocs, Swagger  
+
+---
+
+## 🏆 **Achievements**  
+- 🏅 **Top 10/1700** in Synchrony Financial Hackathon  
+- 🏅 **Top 20/1400** in Pitney Bowes SMB Hackathon  
+- 🏅 **Top 50** in Battle of Bots 2  
+
+---
+
+## 🎓 **Education**  
+- 🎓 **M.Sc. Computer Science**, Pune University (2016)  
+- 🎓 **B.Sc. Computer Science**, Pune University (2014)  
+
+---
+
+## 📂 **Work Experience**
+
+### **Fanatics Inc.** | *Senior Software Engineer* (2022–Present)  
+- Designed scalable synthetic monitoring systems for 30+ sites, reducing issue resolution time.  
+- Developed incident management, alerting, and access provisioning systems, reducing SLAs significantly.  
+
+### **Hitachi Vantara** | *Software Development Engineer* (2018–2021)  
+- Led CLI development for a Python-based multi-cloud platform.  
+- Enhanced platform reliability and led team mentoring initiatives.  
+
+### **IndexNine Technologies** | *Software Engineer* (2016–2018)  
+- Revived legacy applications, achieving 100% uptime with AWS infrastructure.  
+- Led software design and development, ensuring scalable and secure deployments.  
+
+---
+
+## 📌 **Projects**
+
+### **Monitoring & Alerting System** *(2022–Present)*  
+Developed automation for synthetic monitoring, alerts, and incident management, reducing SLA from 24 hours to 1 hour.  
+**Tech Stack**: Python, JavaScript, GoLang, AWS Lambda, EventBridge, Slack Bot, Puppeteer  
+
+### **Cloud Accelerator Platform** *(2018–2020)*  
+Created infrastructure, security, and testing modules for multi-cloud support with a Python-based CLI.  
+**Tech Stack**: Python, Java, Spring Boot, Kubernetes, Docker, Helm  
+
+### **JustTransform** *(2016–2018)*  
+Redesigned and deployed a scalable platform for B2B file transformation, enabling seamless client integrations.  
+**Tech Stack**: Java, DropWizard, Hibernate, AWS  
+
+---
+
+## 📚 **Certifications**  
+- 🎓 Kubernetes Developer (Udemy)  
+- 🎓 Python Programming by the University of Michigan (Coursera)  
+- 🎓 gRPC Java: Build Modern APIs & Microservices (Udemy)  
+
+---
+
+## 📎 **Links**  
+- 🌐 **GitHub**: [mayurvpatil](https://github.com/mayurvpatil)  
+- 🌐 **StackOverflow**: [mayur](https://stackoverflow.com/users/3116512/mayur)  
+- 🌐 **LinkedIn**: [mayurvpatil](https://linkedin.com/in/mayurvpatil)  
+
+---
+
+## 🌟 **Interests**  
+- 🏞️ Trekking  
+- 📷 Photography  
+- 🌍 Traveling  
+
+---
+
+Thank you for visiting my profile! Feel free to reach out or connect with me for collaborations, ideas, or just a chat.
